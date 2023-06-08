@@ -33,13 +33,8 @@ const StyledNav = styled.nav`
   padding: 1rem 10rem;
   background: #282828;
   a {
-    color: white;
+    color: cyan;
     text-decoration: none;
-    &:hover {
-      background-color: #23d997;
-      padding: 0.5rem;
-      color: #282828;
-    }
   }
   ul {
     display: flex;
